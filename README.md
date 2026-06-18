@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm Dhruv
 
-<!--
-**Dhruv200626/Dhruv200626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. IT Student (Third Year)
+💻 Aspiring Software Developer
+🌱 Currently learning Android Development, React, Node.js, and DSA
+🚀 Passionate about Web Development and Mobile App Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming Languages
+- Java
+- Kotlin
+- JavaScript
+- Python
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- Android Studio
+- Firebase
+- VS Code
+
+---
+
+## 📚 Currently Working On
+
+- Android Development Projects
+- Full-Stack Web Development
+- LeetCode & DSA Practice
+- Real-Time Applications using Socket.IO
+
+---
+
+
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/Dhruv200626
+- LinkedIn:https://www.linkedin.com/in/dhruv-gosavi-828b25314/
+
+---
+
+## 🎯 2026 Goals
+
+- Solve 500+ LeetCode Problems
+- Build More Full-Stack Projects
+- Master Android Development
+- Contribute to Open Source Projects
+
+⭐ Thanks for visiting my profile!
