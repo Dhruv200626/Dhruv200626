@@ -51,7 +51,6 @@
 
 - GitHub: https://github.com/Dhruv200626
 - LinkedIn:https://www.linkedin.com/in/dhruv-gosavi-828b25314/
-
 ---
 
 ## 🎯 2026 Goals
